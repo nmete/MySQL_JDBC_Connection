@@ -1,7 +1,9 @@
 # MySQL_JDBC_Connection
 
 Five steps to conect with MySQL with JDBC API
-       1. // load and register driver
+      
+      
+      1. // load and register driver
         Class.forName("com.mysql.cj.jdbc.Driver");
 
         2.//establish the connections
